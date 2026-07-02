@@ -6,8 +6,8 @@ export const ATLAS = {
   programAlumnos: 'Más allá del Código',
   convocatoriaAlumnos: {
     apertura: '1 de junio de 2026',
-    cierreInscripcion: '17 de julio de 2026',
-    inicioCurso: 'Agosto 2026',
+    cierreInscripcion: '30 de noviembre de 2026',
+    inicioCurso: 'Marzo 2027',
   },
   /** La asesoría a empresas sigue abierta después del cierre de inscripción de alumnos. */
   convocatoriaEmpresas: {
